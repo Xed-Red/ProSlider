@@ -114,6 +114,8 @@
         </div>
     </div>
 </section>
+  <img src = "captcha.php" />
+<input type = "text" name = "kapcha" />  
 </body>
 <footer style="width: 100%;">
   <div class="moi-kontakti">
